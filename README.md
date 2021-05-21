@@ -1,4 +1,4 @@
-# Accordion
+# Birthday Reminder
 
 This simple React app has been made while following a [YouTube tutorial](https://www.youtube.com/watch?v=a_7Z7C_JCyo).
 
